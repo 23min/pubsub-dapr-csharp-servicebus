@@ -18,18 +18,19 @@
         }
     },
     "extensions": [
-        "ms-azuretools.azure-dev",
-        "ms-azuretools.vscode-bicep",
-        "ms-azuretools.vscode-docker",
-        "ms-azuretools.vscode-azurefunctions",
-        "ms-vscode.vscode-node-azure-pack",
-        "ms-vscode.js-debug",
-        "ms-dotnettools.csharp",
-        "ms-dotnettools.vscode-dotnet-runtime",
-        "esbenp.prettier-vscode",
-        "eg2.vscode-npm-script",
-        "dbaeumer.vscode-eslint"
-    ],
+		"ms-azuretools.azure-dev",
+		"ms-azuretools.vscode-bicep",
+		"ms-azuretools.vscode-docker",
+		"ms-azuretools.vscode-azurefunctions",
+		"ms-vscode.vscode-node-azure-pack",
+		"ms-vscode.js-debug",
+		"ms-dotnettools.csharp",
+		"ms-dotnettools.vscode-dotnet-runtime",
+		"esbenp.prettier-vscode",
+		"eg2.vscode-npm-script",
+		"dbaeumer.vscode-eslint",
+		"ms-azuretools.vscode-dapr"
+	],
     "forwardPorts": [
         3000,
         3100
